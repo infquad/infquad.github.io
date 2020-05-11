@@ -14,7 +14,7 @@ body {
 
 .icons>a {
 	text-decoration: none;
-	color: darkgray;
+	color: black;
 }
 
 .location>a {
@@ -74,7 +74,7 @@ body {
 		text-align: center;
 		margin-right: 0px;
 		margin-left: 0px;
-		color: darkgray;
+		color: black;
 		margin-bottom: 40px;
 	}
 	.location {
@@ -142,7 +142,7 @@ body {
 		text-align: center;
 		margin-right: 0px;
 		margin-left: 0px;
-		color: darkgray;
+		color: black;
 		margin-bottom: 40px;
 	}
 	.location {
@@ -276,7 +276,7 @@ body {
 		text-align: center;
 		margin-right: 0px;
 		margin-left: 0px;
-		color: darkgray;
+		color: black;
 		margin-bottom: 40px;
 	}
 	.location {
