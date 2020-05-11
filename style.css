@@ -264,7 +264,7 @@ body {
 		color: black;
 		margin-top: 16%;
 		margin-bottom: auto;
-		text-transform: capitalize;
+		text-transform: lowercase;
 	}
 	.subtitle {
 		text-align: center;
